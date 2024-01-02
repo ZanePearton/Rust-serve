@@ -1,5 +1,4 @@
 
-```markdown
 # Rust-Server
 
 This simple web server, written in Rust, responds with "Hello, World! This is a cool web server!" to all requests.
@@ -47,4 +46,4 @@ Now, you can visit `http://localhost:8080` in your browser to see the server run
 ## Authors
 
 - **[Zane Pearton](https://github.com/zanepearton)** - Initial work.
-```
+
