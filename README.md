@@ -1,5 +1,5 @@
 
-# Rust-Server
+# Rust-Serve
 
 This simple web server, written in Rust, responds with "Hello, World! This is a cool web server!" to all requests.
 
