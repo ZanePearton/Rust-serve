@@ -19,7 +19,7 @@ Rust-Server is a basic project designed to provide an understanding of the basic
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/Rust-server.git
+git clone https://github.com/zanepearton/Rust-server.git
 ```
 
 ### Running the Server
